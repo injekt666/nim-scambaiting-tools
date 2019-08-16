@@ -15,6 +15,7 @@
 - `fakes/ping.nim` dummy simple harmless Fake `ping` command does nothing.
 - `fakes/netstat.nim` dummy simple harmless Fake `netstat` command does nothing.
 - `fakes/manage-bde.nim` dummy simple harmless Fake `manage-bde -status` command does nothing.
+- `fakes/set.nim` dummy simple harmless Fake `set` command does nothing, wont set env variables.
 
 
 # Fonts
