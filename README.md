@@ -19,8 +19,8 @@
 
 # Fonts
 
-- `fonts/Cansalos.otf` harmless normal font but with the letters changed.
-- `fonts/Cansalos.ttf` harmless normal font but with the letters changed.
+- `fonts/Cansalos.otf` harmless normal font but with the letters changed, wont break text but you cant read it.
+- `fonts/Cansalos.ttf` harmless normal font but with the letters changed, wont break text but you cant read it.
 
 
 <!--
