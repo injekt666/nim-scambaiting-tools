@@ -12,6 +12,7 @@ const bannedWords = [
   "credit", "debit",
   "attacker", "attackers",
   "intrusion", "intrusions",
+  "malware", "malwares",
 ]
 
 const bannedWordsFound = "SCAM"
