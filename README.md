@@ -11,6 +11,7 @@
 
 # Fakes
 
+- `fakes/echo.nim` harmless Fake `echo` echoes if not `bannedWords` found on message else prints `bannedWordsFound`.
 - `fakes/tree.nim` dummy simple harmless Fake `tree` command does nothing.
 - `fakes/ping.nim` dummy simple harmless Fake `ping` command does nothing.
 - `fakes/netstat.nim` dummy simple harmless Fake `netstat` command does nothing.
