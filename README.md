@@ -1,8 +1,6 @@
 # ScamBaiting-Toys
 
-<details>
-
-- [Scam Baiting](https://wikipedia.org/wiki/Scam_baiting) Toys **for Windows** to run on [VirtualBox](https://www.virtualbox.org). **NOT for End-Users!. Get out if you dont know what it is**.
+- [Scam Baiting](https://wikipedia.org/wiki/Scam_baiting) [Internet vigilante](https://wikipedia.org/wiki/Internet_vigilantism#Scam_baiting) Toys **for Windows** to run on [VirtualBox](https://www.virtualbox.org). **NOT for End-Users!. Get out if you dont know what it is**.
 
 
 # Infinite Looping
@@ -26,9 +24,6 @@
 
 - `fonts/Cansalos.otf` harmless normal font but with the letters changed, wont break text but you cant read it.
 - `fonts/Cansalos.ttf` harmless normal font but with the letters changed, wont break text but you cant read it.
-
-
-</details>
 
 
 <!--
