@@ -1,6 +1,6 @@
 # ScamBaiting-Toys
 
-- [Scam Baiting](https://wikipedia.org/wiki/Scam_baiting) Toys **for Windows** to run on [VirtualBox](https://www.virtualbox.org). **NOT for End-Users!**.
+- [Scam Baiting](https://wikipedia.org/wiki/Scam_baiting) Toys **for Windows** to run on [VirtualBox](https://www.virtualbox.org). **NOT for End-Users!. Get out if you dont know what it is**.
 
 
 # Infinite Looping
