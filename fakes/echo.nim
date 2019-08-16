@@ -15,7 +15,7 @@ const bannedWords = [
   "malware", "malwares",
 ]
 
-const bannedWordsFound = "SCAM"
+const message4scam = "SCAM"
 
 
 var lowerCommandLineParams: seq[string]
@@ -24,7 +24,7 @@ for word in commandLineParams():
 
 for word in bannedWords:
   if word in lowerCommandLineParams: 
-    quit(bannedWordsFound, 0)
+    quit(message4scam, 0)
 
 for param in commandLineParams():
   echo param
