@@ -30,9 +30,6 @@ SystemDrive=C:
 SystemRoot=C:\Windows
 TEMP=C:\Users\user\AppData\Local\Temp
 TMP=C:\Users\user\AppData\Local\Temp
-USERDOMAIN=DESKTOP-9GEF6VP
-USERDOMAIN_ROAMINGPROFILE=DESKTOP-9GEF6VP
-USERNAME=user
 USERPROFILE=C:\Users\user
 windir=C:\Windows
 
