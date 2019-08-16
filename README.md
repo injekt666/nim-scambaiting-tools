@@ -17,6 +17,12 @@
 - `fakes/manage-bde.nim` dummy simple harmless Fake `manage-bde -status` command does nothing.
 
 
+# Fonts
+
+- `fonts/Cansalos.otf` harmless normal font but with the letters changed.
+- `fonts/Cansalos.ttf` harmless normal font but with the letters changed.
+
+
 <!--
   fake syskey
   fake cmd
