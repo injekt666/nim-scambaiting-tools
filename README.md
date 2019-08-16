@@ -7,7 +7,7 @@
 
 - `infinite_looping/netstat.nim` Infinite looping harmless randomized Fake `netstat` command runs forever.
 - `infinite_looping/tree.nim` Infinite looping harmless randomized Fake `tree` command runs forever.
-- `infinite_looping/ssd_killer.nim` Infinite Write & Delete 1 file on Temporary folder to kill SSD Lifespan, command runs forever.
+- `infinite_looping/ssd_killer.nim` Infinite Write & Delete 1 file on Temporary folder to kill SSD Lifespan, runs forever.
 
 
 # Fakes
