@@ -1,4 +1,4 @@
-import os, strutils
+import os, strutils, times
 
 const bannedWords = [
   "virus", "viruses", 
@@ -26,5 +26,5 @@ for word in bannedWords:
   if word in lowerCommandLineParams: 
     quit(message4scam, 0)
 
-for param in commandLineParams():
-  echo param
+
+echo commandLineParams().join(" ")
