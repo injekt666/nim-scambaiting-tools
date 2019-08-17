@@ -10,7 +10,7 @@ and
 
 ## Features
 
-- +20 Scam Baiting Tools total and growing.
+- **+20 Scam Baiting Tools total**.
 - Single-file tiny native binary executable `*.EXE`.
 - No DotNet Frameworks Required. No Dependencies.
 
