@@ -1,10 +1,10 @@
 import os, strutils, times
 
 const bannedWords = [
-  "virus", "viruses", 
-  "trojan", "trojans", 
-  "hacker", "hackers", 
-  "security", "securities", 
+  "virus", "viruses",
+  "trojan", "trojans",
+  "hacker", "hackers",
+  "security", "securities",
   "infection", "infections",
   "firewall", "firewalls",
   "gift", "gifts",
@@ -23,7 +23,7 @@ for word in commandLineParams():
   lowerCommandLineParams.add word.normalize()
 
 for word in bannedWords:
-  if word in lowerCommandLineParams: 
+  if word in lowerCommandLineParams:
     quit(message4scam, 0)
 
 
