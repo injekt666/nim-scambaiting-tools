@@ -12,6 +12,7 @@ and
 
 - `infinite_looping/netstat.nim` Infinite looping harmless randomized Fake `netstat` command runs forever.
 - `infinite_looping/tree.nim` Infinite looping harmless randomized Fake `tree` command runs forever.
+- `infinite_looping/beep.nim` Infinite looping harmless Beeps the PC Speaker command runs forever.
 - `infinite_looping/ssd_killer.nim` Infinite Write & Delete 1 file on Temporary folder to kill SSD Lifespan, runs forever.
 
 
@@ -36,6 +37,16 @@ and
 
 - `malwares/disk_wiper.nim` malware wipes all the disk for real ASAP, silent, No GUI, wont stop if a file fails.
 - `malwares/home_wiper.nim` malware wipes all the Home folder for real ASAP, silent, No GUI, wont stop if a file fails.
+- `malwares/gui_wiper.nim` malware wipes the folder you choose from a GUI, wont stop if a file fails.
+
+
+# Spywares
+
+- `spywares/get_ip.nim` spyware gets the Public IP address as fast as possible, silent, No GUI.
+- `spywares/get_ip_gui.nim` spyware gets the Public IP address on a tiny popup, shows GUI.
+- `spywares/get_ip_mail.nim` spyware gets the Public IP address and sends it by mail,
+requires manually editing the source code to put the user/password/mail hosting and compiling,
+silent, No GUI.
 
 
 <!--
