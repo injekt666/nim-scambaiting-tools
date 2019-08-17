@@ -19,6 +19,7 @@ and
 
 - `fakes/echo.nim` harmless Fake `echo` echoes if not `bannedWords` found on message else prints `message4scam`.
 - `fakes/tree.nim` dummy simple harmless Fake `tree` command does nothing.
+- `fakes/literal_tree.nim` dummy simple harmless Fake `tree` that prints a *Literal* Tree (ASCII Art).
 - `fakes/ping.nim` dummy simple harmless Fake `ping` command does nothing.
 - `fakes/netstat.nim` dummy simple harmless Fake `netstat` command does nothing.
 - `fakes/manage-bde.nim` dummy simple harmless Fake `manage-bde -status` command does nothing.
