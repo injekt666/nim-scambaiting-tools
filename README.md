@@ -3,8 +3,7 @@
 - **Windows-only, [VirtualBox-only](https://www.virtualbox.org)** Tools for
 [Scam Baiting](https://wikipedia.org/wiki/Scam_baiting)
 [Internet vigilantes](https://wikipedia.org/wiki/Internet_vigilantism#Scam_baiting) doing
-[Activism Ops](https://en.wikipedia.org/wiki/Internet_vigilantism#Other_political_activism)
-and
+[Activism Ops](https://en.wikipedia.org/wiki/Internet_vigilantism#Other_political_activism) and
 [Anti-Pedophile Ops](https://en.wikipedia.org/wiki/Internet_vigilantism#Anti-pedophile_(statutory_rape)_Internet_vigilantism)
 
 
