@@ -50,6 +50,15 @@ requires manually editing the source code to put the user/password/mail hosting 
 silent, No GUI.
 
 
+# More
+
+- https://github.com/juancarlospaco/nim-nudesbait#nudesbait
+- https://github.com/juancarlospaco/redneck-translator#redneck-translator
+- https://github.com/paradox460/spurdify#usage
+- https://github.com/juancarlospaco/sweetanitify#sweet_anita-translator
+- https://github.com/juancarlospaco/nim-libravatar#libravatar-app
+
+
 <!--
   fake syskey
   fake cmd
