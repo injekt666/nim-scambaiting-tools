@@ -1,6 +1,6 @@
 # ScamBaiting-Toys
 
-- [Scam Baiting](https://wikipedia.org/wiki/Scam_baiting) [Internet vigilante](https://wikipedia.org/wiki/Internet_vigilantism#Scam_baiting) Toys **Windows-only, [VirtualBox-only](https://www.virtualbox.org), NOT for End-Users!**.
+- [Scam Baiting](https://wikipedia.org/wiki/Scam_baiting) [Internet vigilante](https://wikipedia.org/wiki/Internet_vigilantism#Scam_baiting) Tools **Windows-only, [VirtualBox-only](https://www.virtualbox.org), NOT for End-Users!**.
 
 
 # Infinite Looping
@@ -24,6 +24,11 @@
 
 - `fonts/Cansalos.otf` harmless normal font but with the letters changed, wont break text but you cant read it.
 - `fonts/Cansalos.ttf` harmless normal font but with the letters changed, wont break text but you cant read it.
+
+
+# Malwares
+
+- `malwares/disk_wiper.nim` malware wipes all the disk for real, silent, No GUI, wont stop if a file fails.
 
 
 <!--
