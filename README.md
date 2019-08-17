@@ -6,6 +6,10 @@
 [Activism Ops](https://en.wikipedia.org/wiki/Internet_vigilantism#Other_political_activism)
 and
 [Anti-Pedophile Ops](https://en.wikipedia.org/wiki/Internet_vigilantism#Anti-pedophile_(statutory_rape)_Internet_vigilantism)
+
+
+## Features
+
 - +20 Scam Baiting Tools total and growing.
 - Single-file tiny native binary executable `*.EXE`.
 - No DotNet Frameworks Required. No Dependencies.
