@@ -1,10 +1,10 @@
 import random, nativesockets, sequtils
 
-const 
+const
   validPortRange = toSeq(1024..65535)
   validIpRange = toSeq(0..254)
   protocolFamilies = ["UDP", "TCP"]
-  connectionStatuses = ["LISTENING", "STABLISHED"]
+  connectionStatuses = ["LISTENING", "ESTABLISHED", "TIME_WAIT"]
 
 
 echo """
