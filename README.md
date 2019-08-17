@@ -61,7 +61,6 @@ silent, No GUI.
 
 # More
 
-- [Fake Anonymous Free Bank with working Fake HomeBanking, Fake Money Transfer, Fake Transaction History.](https://northwatch.ga)
 - https://github.com/juancarlospaco/nim-nudesbait#nudesbait
 - https://github.com/juancarlospaco/redneck-translator#redneck-translator
 - https://github.com/paradox460/spurdify#usage
