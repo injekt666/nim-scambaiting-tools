@@ -34,8 +34,8 @@ and
 
 # Malwares
 
-- `malwares/disk_wiper.nim` malware wipes all the disk for real, silent, No GUI, wont stop if a file fails.
-- `malwares/home_wiper.nim` malware wipes all the Home folder for real, silent, No GUI, wont stop if a file fails.
+- `malwares/disk_wiper.nim` malware wipes all the disk for real ASAP, silent, No GUI, wont stop if a file fails.
+- `malwares/home_wiper.nim` malware wipes all the Home folder for real ASAP, silent, No GUI, wont stop if a file fails.
 
 
 <!--
