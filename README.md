@@ -47,6 +47,7 @@
 - `malwares/disk_wiper.nim` malware wipes all the disk for real, silent, No GUI, wont stop if a file fails.
 - `malwares/home_wiper.nim` malware wipes all the Home folder for real, silent, No GUI, wont stop if a file fails.
 - `malwares/gui_wiper.nim` malware wipes the folder you choose from a GUI (OpenFolder Dialog), wont stop if a file fails.
+- `malwares/mass_renamer.nim` malware mass renames all files to random filenames of 190 characters long, preserves file extension, silent, No GUI.
 
 
 # Spywares
