@@ -31,6 +31,7 @@ and
 
 - `fonts/Cansalos.otf` harmless normal font but with the letters changed, wont break text but you cant read it.
 - `fonts/Cansalos.ttf` harmless normal font but with the letters changed, wont break text but you cant read it.
+- `fonts/FuzzyCootie.ttf` harmless normal font with human siluettes, wont break text but looks very unprofessional.
 
 
 # Malwares
