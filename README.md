@@ -21,6 +21,7 @@ and
 - `infinite_looping/tree.nim` Infinite looping harmless randomized Fake `tree` command runs forever.
 - `infinite_looping/beep.nim` Infinite looping harmless Beeps the PC Speaker command runs forever.
 - `infinite_looping/ssd_killer.nim` Infinite Write & Delete 1 file on Temporary folder to kill SSD Lifespan, runs forever.
+- `infinite_looping/scammer_gui.nim` simple harmless Fake *"AntiScamm Scanner"* Popup, shows GUI.
 
 
 # Fakes
@@ -32,7 +33,7 @@ and
 - `fakes/netstat.nim` dummy simple harmless Fake `netstat` command does nothing.
 - `fakes/manage-bde.nim` dummy simple harmless Fake `manage-bde -status` command does nothing.
 - `fakes/set.nim` dummy simple harmless Fake `set` command does nothing, wont set env variables.
-- `fakes/password_dialog.nim` simple harmless Fake Password Dialog Popup, just returns the user input.
+- `fakes/password_dialog.nim` harmless Fake Password Dialog Popup, just returns the user input, shows GUI.
 
 
 # Fonts
