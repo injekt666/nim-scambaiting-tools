@@ -1,4 +1,4 @@
-# ScamBaiting-Toys
+# ScamBaiting-Tools
 
 - [Scam Baiting](https://wikipedia.org/wiki/Scam_baiting) [Internet vigilante](https://wikipedia.org/wiki/Internet_vigilantism#Scam_baiting) Tools **Windows-only, [VirtualBox-only](https://www.virtualbox.org), NOT for End-Users!**.
 
