@@ -32,6 +32,7 @@ and
 - `fakes/netstat.nim` dummy simple harmless Fake `netstat` command does nothing.
 - `fakes/manage-bde.nim` dummy simple harmless Fake `manage-bde -status` command does nothing.
 - `fakes/set.nim` dummy simple harmless Fake `set` command does nothing, wont set env variables.
+- `fakes/password_dialog.nim` simple harmless Fake Password Dialog Popup, just returns the user input.
 
 
 # Fonts
