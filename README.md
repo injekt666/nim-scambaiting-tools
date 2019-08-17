@@ -55,7 +55,7 @@ and
 - `spywares/get_ip.nim` spyware gets the Public IP address as fast as possible, prints to terminal, No GUI.
 - `spywares/get_ip_gui.nim` spyware gets the Public IP address on a tiny popup, shows GUI.
 - `spywares/get_ip_mail.nim` spyware gets the Public IP address and sends it by mail,
-requires manually editing the source code to put the user/password/mail hosting and compiling,
+requires manually editing the source code to put the user/password/mail and compiling,
 silent, No GUI.
 
 
