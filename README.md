@@ -10,7 +10,7 @@ and
 
 ## Features
 
-- **+20 Scam Baiting Tools total**.
+- **+20 Scam Baiting Tools total** [and more linked below.](https://github.com/juancarlospaco/nim-scambaiting-tools#more)
 - Single-file tiny native binary executable `*.EXE`.
 - No DotNet Frameworks Required. No Dependencies.
 
